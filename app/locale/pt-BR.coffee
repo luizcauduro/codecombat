@@ -152,8 +152,8 @@ module.exports = nativeDescription: "Português (Brasil)", englishDescription: "
     brain_pop_challenge: "Desafie-se a jogar novamente usando outra linguagem de programação!"
     replay: "Replay"
     back_to_classroom: "Voltar para Turma"
-#    teacher_button: "For Teachers"
-#    get_more_codecombat: "Get More CodeCombat"
+#    teacher_button: "Para professores"
+#    get_more_codecombat: "Saiba mais sobre CodeCombat"
 
   code:
     if: "se" # Keywords--these translations show up on hover, so please translate them all, even if it's kind of long. (In the code editor, they will still be in English.)
@@ -226,7 +226,7 @@ module.exports = nativeDescription: "Português (Brasil)", englishDescription: "
     signup_switch: "Deseja Criar uma Conta?"
 
   signup:
-#    complete_subscription: "Complete Subscription"
+#    complete_subscription: "Complete a inscrição"
     create_student_header: "Criar conta de Aluno"
     create_teacher_header: "Criar conta de Professor"
     create_individual_header: "Criar conta Individual"
@@ -1049,7 +1049,7 @@ module.exports = nativeDescription: "Português (Brasil)", englishDescription: "
     approve_funds: "Aprovar Fundos"
     no_purchaser_role: "Nenhuma função nas decisões de compra"
     district_label: "Bairro"
-#    district_name: "District Name"
+#    district_name: "Nome do Distrito"
     district_na: "Escreva N/A caso não se aplique"
     organization_label: "Nome da escola" # {change}
 #    school_name: "School Name"
